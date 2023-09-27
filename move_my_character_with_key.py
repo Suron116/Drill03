@@ -41,6 +41,7 @@ moving = True
 char_x, char_y, dir = 640, 512, 0
 frame = 0
 
+#캐릭터 이미지 길이
 while moving:
     clear_canvas()
     back.draw_now(640, 512)
